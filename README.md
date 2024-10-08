@@ -21,7 +21,7 @@ The model explores the interplay between node and link states within complex net
 ### Python Version
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MohiMozaffari/Coevolutionary.git
+    git clone https://github.com/MohiMozaffari/Coevolutionary-Simulation.git
     ```
 2. Navigate to the Python version:
     ```bash
@@ -38,7 +38,7 @@ The model explores the interplay between node and link states within complex net
 ### C++ Version
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MohiMozaffari/Coevolutionary.git
+    git clone https://github.com/MohiMozaffari/Coevolutionary-Simulation.git
     ```
 2. Navigate to the C++ version:
     ```bash
